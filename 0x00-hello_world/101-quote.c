@@ -3,10 +3,8 @@
 /**
  * main - Entry point
  *
- * Return: 0 
- *
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	printf(1,"and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
