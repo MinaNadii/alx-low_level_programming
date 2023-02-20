@@ -5,11 +5,10 @@
 /**
  * Main - Entry point
  *
- * Description : Print Value of n;
+ * Description: Print Value of n;
  *
  * Return: Always 0 Success
  */
-
 int main (void)
 {
 	int n;
