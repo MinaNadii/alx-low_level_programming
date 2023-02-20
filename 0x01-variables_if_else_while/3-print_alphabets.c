@@ -7,23 +7,26 @@
  *
  * Return: Always 0 (Success)
 */
+
 int main(void)
 {
-	char c = 'a';
-	char CC = 'A';
+	char ch = 'a';
+	char C = 'A';
 
-	while (c <= 'z')
+	/*prints a - z*/
+	while (ch <= 'z')
 	{
-		putchar(c);
-		++c;
+		putchar(ch);
+		++ch;
 	}
 
-	while (CC <= 'Z');
+	/*print A - Z*/
+	while (C <= 'Z')
 	{
-		putchar(CC);
-		++CC;
+		putchar(C);
+		++C;
 	}
 	putchar('\n');
 
 	return (0);
-}
+}}
