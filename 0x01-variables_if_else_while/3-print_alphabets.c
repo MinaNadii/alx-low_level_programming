@@ -11,7 +11,7 @@
 int main(void)
 {
 	char ch = 'a';
-	char C = 'A';
+	char CHC = 'A';
 
 	/*prints a - z*/
 	while (ch <= 'z')
@@ -21,12 +21,12 @@ int main(void)
 	}
 
 	/*print A - Z*/
-	while (C <= 'Z')
+	while (CH <= 'Z')
 	{
-		putchar(C);
-		++C;
+		putchar(CH);
+		++CH;
 	}
 	putchar('\n');
 
 	return (0);
-}}
+}
