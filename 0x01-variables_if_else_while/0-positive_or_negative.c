@@ -5,7 +5,7 @@
 /**
  * Main - Entry point
  *
- * Description: Print Value of n;
+ * Description: print value of n status; positive, zero or negative 
  *
  * Return: Always 0 Success
  */
