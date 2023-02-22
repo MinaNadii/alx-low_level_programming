@@ -1,18 +1,19 @@
 #include<stdio.h>
 
 /**
- *
  * main - Entry Point
  *
- * Discription: Print _putchar
+ * Description: Print _putchar
  *
- * Return: Always 0
+ * Return: Always 0 Success
  *
  */
 
 int main(void)
 {
-	putchar('Hello');
-	return(0);
+	putchar('c');
+	printf("\n");
+	return (0);
+
 }
 
