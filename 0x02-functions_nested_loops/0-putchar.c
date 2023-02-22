@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	putchar('_putchar');
+	printf("_putchar");
 	printf("\n");
 	return (0);
 
