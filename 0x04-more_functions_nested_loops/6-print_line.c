@@ -20,7 +20,7 @@ void print_line(int n)
 	}
 	else
 	{
-		for (num = 1; num_lines <= n; ++num)
+		for (num = 1; num <= n; ++num)
 		{
 			_putchar('_');
 		}
