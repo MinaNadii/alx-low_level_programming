@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * print_most_numbers - entry point
  *
