@@ -3,7 +3,7 @@
 /**
  * print_listint - a function that prints all elements of a list
  *
- * @h: pointer to the first node
+ * @h: pointer to first node
  *
  * Return: the number of nodes
 */
